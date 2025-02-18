@@ -6,7 +6,7 @@
 
 ## **🚀 About Me**
 🔹 **Experienced Developer:** 5+ years in designing & developing **enterprise-grade web & cloud applications**  
-🔹 **Cloud & DevOps Enthusiast:** Skilled in **AWS, Azure, Kubernetes (AKS/EKS), Terraform, and CI/CD pipelines**  
+🔹 **Cloud & DevOps Enthusiast:** Skilled in **AWS, Azure, Kubernetes (AKS/EKS),QNXT, Terraform, and CI/CD pipelines**  
 🔹 **Full-Stack Developer:** Proficient in **.NET Core, ASP.NET, Angular 17, Python, and Java**  
 🔹 **Big Data & AI:** Experience in **Kafka, Prometheus, ELK Stack, and ML-based anomaly detection**  
 
